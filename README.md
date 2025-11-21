@@ -2,6 +2,6 @@
 ## Alarm System with Video Surveillance 
 #### Collaborators:
 * [Arshdeep Singh Karwal](https://github.com/Arshdeep-Karwal)
-* [Dev Patel](https://github.com/DevPatel4522)
+* [Dev Patel](https://github.com/Dev-Patel4)
 * [Gundeep Sidhu]()
 * [Matthew Readman]()
