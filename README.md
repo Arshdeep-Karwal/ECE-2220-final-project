@@ -1,6 +1,7 @@
 # ECE-2220 Final Project - Team #20
 ## Alarm System with Video Surveillance 
-Collaborators: <a href="https://github.com/Arshdeep-Karwal" target="_blank">Arshdeep Singh Karwal</a>
-               <a href="https://github.com/DevPatel4522" target="_blank">Dev Patel</a> 
-               <a href="" target="_blank">Gundeep Sidhu</a>
-               <a href="" target="_blank">Matthew Readman</a>
+Collaborators:
+* [Arshdeep Singh Karwal](https://github.com/Arshdeep-Karwal)
+* [Dev Patel](https://github.com/DevPatel4522)
+* [Gundeep Sidhu]()
+* [Matthew Readman]()
